@@ -148,26 +148,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
 
          <activity
-            android:name=".n1"
-            android:label="Google pixels" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-
-         <activity
-            android:name=".n3"
-            android:label="Google colors" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-
-         <activity
             android:name=".n2"
             android:label="Dots" >
             <intent-filter>
@@ -250,16 +230,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
          <activity
             android:name=".magic"
             android:label="Magic" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-
-         <activity
-            android:name=".camo"
-            android:label="Camouflage" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
